@@ -14,6 +14,7 @@ Location-Based Reporting – Reports can be associated with their location on ca
 Verification – Administrators can review and verify submitted reports.
 Eco Points – Students can earn Eco Points for verified contributions.
 Rewards – Eco Points can be used for campus-related rewards and incentives.
+
 **Key Features**
 📝 Student issue reporting
 📍 Location-based issue identification
@@ -23,6 +24,7 @@ Rewards – Eco Points can be used for campus-related rewards and incentives.
 🎁 Reward-based participation
 🌓 Light and dark mode
 💻 User-friendly interface
+
 **Purpose**
 The main purpose of ESSE is to create a more interactive approach to campus resource management by involving students in identifying and reporting problems.
 
